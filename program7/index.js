@@ -1,4 +1,4 @@
-const json = '{"firstName":"Mohammed", "lastName":"Shuaib"}';
+const json = '{"firstName":"Pranjali", "lastName":"Karjawkar"}';
 const obj = JSON.parse(json);
 
 console.log(obj.firstName);
