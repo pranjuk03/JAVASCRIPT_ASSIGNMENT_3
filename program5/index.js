@@ -1,6 +1,6 @@
 const person = {
-    firstName : "Mohammed",
-    lastName : "A T",
+    firstName : "Pranjali",
+    lastName : "K",
     greeting : function(){
         alert('Hi! I\m ' + this.firstName + this.middleName + this.lastName + '.');
     }
